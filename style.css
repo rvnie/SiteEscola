@@ -33,15 +33,19 @@ body{
 .escola-conteudo{
     width: 35%;
 }
-
 .escola-titulo{
     padding: 24px 0;
 }
-
 .estudante-imagem{
 width: 120Px;
 }
-
 .estudante-icone{
     width:30px  ;
+}
+.estudante-div{
+  text-align: center;
+}
+.estudante-titulo{
+   text-align: center; 
+    padding: 50px 0;
 }
